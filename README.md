@@ -1,6 +1,6 @@
 # Classification_using_Multivariate_Analysis
 **Author : Sayan Dhani**<br/>
-**Supervisor : Prof. Subir Sarkar ( Dept. of High Energy Nuclear & Particle Physics, SINP )**<br/>
+**Supervisor : Prof. Subir Sarkar ( Dept. of High Energy Nuclear & Particle Physics, SINP, India )**<br/>
 **Timeline : May'2023 - July'2023**<br/>
 Apply the Boosted Decision Tree & Artificial Neural network-based multi-variate analysis to classify the signal and background. 
 
